@@ -10,6 +10,19 @@ body {
   width: 100%;
   height: 100%;
 }
+
+.jumbotron-with-background {
+  background-image: url(gota.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1-config {
+  color: white;
+}
+.p-config{
+  color: white;
+}
 .content {
   height: 520px;
   width: 935px;
